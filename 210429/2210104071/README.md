@@ -4,7 +4,7 @@
 ### New Operator
 2つの親に対しマスクを1つずつ用意し，それぞれで一様交叉のような操作を行った．
 
-```
+```python
 def my_new(ind1, ind2):
     offspring1 = []
     offspring2 = []
